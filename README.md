@@ -17,7 +17,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # My Startup
 
-- [Pipem](https://github.com/pipem): Control your CI/CD pipelines, improve the efficiency of your software development and deployment process with Pipem
+- [Pipem](https://github.com/pipem-io): Control your CI/CD pipelines, improve the efficiency of your software development and deployment process with Pipem
 - [Anomaleet](https://anomaleet.com): Street Anomaly prevention system
 
 ### My hobbies
