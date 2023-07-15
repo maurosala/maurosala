@@ -13,7 +13,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # Working On
 
-- [Krateo PlatformOps](https://github.com/krateoplatformops): Self-service platform for multi-cloud native resources
+- [Johannes.pics](https://johannes.pics) (AI, AR, arduino, gaming)
 
 # My Startup
 
