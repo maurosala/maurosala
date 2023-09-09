@@ -19,6 +19,8 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 - [Pipem](https://github.com/pipem-io): Control your CI/CD pipelines, improve the efficiency of your software development and deployment process with Pipem
 - [Anomaleet](https://anomaleet.com): Street Anomaly prevention system
+- [Slums](https://github.com/slums-io): K8s cluster inspector
+- [NukeTown](https://github.com/nuketown-io): Status monitor
 
 ### My hobbies
 
