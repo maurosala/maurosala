@@ -13,7 +13,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # Working On
 
-- [Johannes.pics](https://johannes.pics) (AI, AR, arduino, gaming)
+- [Epik Johannes](https://epikjohannes.com) (AI, AR, arduino, gaming)
 
 # My Startup
 
