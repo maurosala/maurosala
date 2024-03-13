@@ -13,7 +13,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # Working On
 
-- [Epik Johannes](https://epikjohannes.com) (AI, AR, arduino, gaming)
+- [Epik Johannes](https://epikjohannes.com) (CTO)
 
 # My Startup
 
@@ -21,6 +21,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 - [Anomaleet](https://anomaleet.com): Street Anomaly prevention system
 - [Slums](https://github.com/slums-io): K8s cluster inspector
 - [NukeTown](https://github.com/nuketown-io): Status monitor
+- [BulkZone](https://github.com/bulkzone-io): Mail marketing
 
 ### My hobbies
 
