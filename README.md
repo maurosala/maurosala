@@ -13,7 +13,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # Working On
 
-- [Epik Johannes](https://epikjohannes.com) (CTO)
+- [Johannes](https://johannes.pics) (CTO)
 
 # My Startup
 
