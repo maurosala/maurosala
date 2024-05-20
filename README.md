@@ -15,13 +15,16 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 - [Johannes](https://johannes.pics) (CTO)
 
-# My Startup
+# My Startup - My Projects
 
-- [Pipem](https://github.com/pipem-io): Control your CI/CD pipelines, improve the efficiency of your software development and deployment process with Pipem
-- [Anomaleet](https://anomaleet.com): Street Anomaly prevention system
-- [Slums](https://github.com/slums-io): K8s cluster inspector
-- [NukeTown](https://github.com/nuketown-io): Status monitor
-- [BulkZone](https://github.com/bulkzone-io): Mail marketing
+| GtiHub Project                             | Description                                                                                                         | Progress | Status                      | Website                                | Contact              |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------- | -------------------------------------- | -------------------- |
+| [Anomaleet](https://anomaleet.com)         | Street Anomaly prevention system                                                                                    | 🚀       | **Available on the market** | [Anomaleet.com](https://anomaleet.com) | <info@anomaleet.com> |
+| [Pipem](https://github.com/pipem-io)       | Control your CI/CD pipelines, improve the efficiency of your software development and deployment process with Pipem | 🚀       | **Available on the market** | [Pipem.io](https://pipem.io)           | <info@pipem.io>      |
+| [Slums](https://github.com/slums-io)       | K8s cluster inspector                                                                                               | 💻       | Work in progress            | [Slums.io](https://slums.io)           | <hello@slums.io>     |
+| [NukeTown](https://github.com/nuketown-io) | Status monitor                                                                                                      | 🚀       | **Available on the market** | [NukeTown.io](https://nuketown.io)     | <hello@nuketown.io>  |
+| [BulkZone](https://github.com/bulkzone-io) | Mail marketing                                                                                                      | 💻       | Work in progress            | [BulkZone.io](https://bulkzone.io)     | <info@bulkzone.io>   |
+| [Stlt](https://github.com/stlt-io)         | Device fingerprinting                                                                                               | 🚀       | **Available on the market** | [Stlt.io](https://stlt.io)             | <hello@stlt.io>      |
 
 ### My hobbies
 
