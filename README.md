@@ -13,7 +13,7 @@ My motto is "the beauty is easy to sell", that is why I am particularly focused 
 
 # Working On
 
-- [Johannes](https://johannes.pics) (CTO)
+- [Harley&Dikkinson](https://harleydikkinson.com/) (CTO)
 
 # My Startup - My Projects
 
